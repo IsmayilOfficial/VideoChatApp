@@ -1,10 +1,6 @@
 # VideoChatApp
 
-For run app local
-- (server part)  :::  
-1. cd backend
-2. npm install && nodemon index.js
-- (front end part)
-  npm install && npm start
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the development server
 
 Live :
